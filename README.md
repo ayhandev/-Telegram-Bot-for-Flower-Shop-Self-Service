@@ -17,15 +17,14 @@ Welcome to the **Flower Shop Self-Service Bot** project! This bot is designed to
 ├── README.md                
 ├── .gitignore 
 └── LICENSE.md       
-
+```
 ## ⚙️ Installation
 
 To get started with this project, follow these steps:
 
 # Clone the Repository:
 ```
-git clone https://github.com/yourusername/flower-shop-bot.git
-cd flower-shop-bot
+git clone https://github.com/yourusername/flower-shop-bot.git](https://github.com/ayhandev/-Telegram-Bot-for-Flower-Shop-Self-Service.git
 ```
 
 # Install Dependencies:
